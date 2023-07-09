@@ -8,3 +8,4 @@ print(dic.values())
 # print(dic)
 dic.pop('name1')
 print(dic)
+
